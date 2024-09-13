@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>FOSSR Project @Zenodo - Fostering Open Science in Social Science Research</title>
+    <link>https://zenodo.org/communities/fossr/records</link>
+    <description>The channel with updates about FOSSR resources published on Zenodo</description>
+    <atom:link href="https://zenodo.org/communities/fossr/records" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 26 Apr 2024 13:32:22 +0000</lastBuildDate>
+    <item>
+      <title>The resource FOSSR Learning Session: Designing Socio-Economic policy evaluation: learning through FOSSR has been modified.</title>
+      <link>https://doi.org/10.5281/zenodo.10390304</link>
+      <description>&lt;p&gt;This folder contains all materials derived from the FOSSR Learning session on &lt;strong&gt;Designing Socio-Economic policy evaluation: learning through FOSSR&lt;/strong&gt;&amp;nbsp;organized by&lt;strong&gt; Giovanni Cerulli &lt;/strong&gt;(CNR-IRCrES), and held from December 6th to December 7th 2023.&lt;/p&gt;
+&lt;p&gt;The Learning Session is based on a two-day program, scheduled for&amp;nbsp;&lt;strong&gt;December 6-7, 2023&lt;/strong&gt;.&amp;nbsp;&lt;br&gt;The main objective of this Learning Session is to provide a comprehensive understanding of the process of designing and evaluating socio-economic policies. This will be achieved by incorporating insights from both theoretical viewpoints and group exercises, all within a participatory learning approach.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;On Day 1&lt;/strong&gt;, between 2:00 PM and 6:00 PM, participants will engage in a series of activities, which take an approach oriented to participatory learning. The session will start with a welcome and an introduction explaining the goals and format of the two-day learning event. The lecturer will provide keywords that are important for assessing socio-economic policies. After that, we will have group discussions where participants will work together to generate ideas, define concepts, and discuss challenges associated with the specific keywords assigned to them. Then, the programme will foresee group presentations to delve into the meaning and exploration of the keywords.&lt;/p&gt;
+&lt;p&gt;Following a break, the lecturer will provide theoretical insights into policy design and evaluation, incorporating ideas and discussions from the earlier groupworks. The day will conclude with a question and answer session.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;On Day 2&lt;/strong&gt;, starting at 9:30 AM and lasting until 1:30 PM, we will start focusing on the role of FOSSR project in offering essential methodological and data resources for policy design and evaluation. Participants will then be tasked with a policy evaluation exercise in groups, with subsequent group presentations. The day will conclude with a segment that highlights the important role of FOSSR in possibilities for policy learning.&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://doi.org/10.5281/zenodo.10390304</guid>
+      <category domain="https://schema.datacite.org/">Lesson</category>
+      <enclosure url="https://zenodo.org/api/records/10390304/files/FOSSR - locandina learning session Cerulli (2).pdf/content" length="None" type="application/pdf"/>
+      <pubDate>Fri, 15 Dec 2023 13:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The resource FOSSR Second Online Seminar: Agent-based Modeling: contributions for the Social Sciences and FOSSR has been modified.</title>
+      <link>https://doi.org/10.5281/zenodo.10571855</link>
+      <description>&lt;p&gt;The folder contains the presentations and abstracts of the FOSSR First Online Seminar dedicated to &lt;span&gt;&lt;span&gt;introducing agent-based modeling as a method to study the emergence of complex dynamics of collective behavior. A special focus will be devoted to the application of the method to FOSSR multi-source data and integration with other methodologies in the project. The debate will delve into the complexity of social sciences and how the &lt;/span&gt;&lt;span&gt;method can support the contributions and goals of FOSSR infrastructure.&lt;/span&gt;&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;The seminar is organized by &lt;strong&gt;Valentina Tudisca&lt;/strong&gt; and &lt;strong&gt;Rocco Paolillo &lt;/strong&gt;from &lt;strong&gt;CNR-IRPPS&lt;/strong&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Opening&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Valentina Tudisca&lt;/p&gt;
+&lt;p&gt;Giovanni Cerulli&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Presentations&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Mario Paolucci&lt;/p&gt;
+&lt;p&gt;Rocco Paolillo&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Open discussion&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Moderator: Giulia Andrighetto&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;span&gt;Giovanni Cerulli &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;span&gt;Silvia Leoni&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;span&gt;Andrea Nuzzolese&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;span&gt;Flaminio Squazzoni&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;span&gt;Eva Vriens&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://doi.org/10.5281/zenodo.10571855</guid>
+      <category domain="https://schema.datacite.org/">Presentation</category>
+      <enclosure url="https://zenodo.org/api/records/10571855/files/FOSSR Seminar_Abstract_Paolucci-Paolillo.pdf/content" length="None" type="application/pdf"/>
+      <pubDate>Wed, 31 Jan 2024 10:02:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>The resource FOSSR Deliverable 5.8 - Complex modelling and artificial populations for agent-based simulations has been modified.</title>
+      <link>https://doi.org/10.5281/zenodo.10638801</link>
+      <description>&lt;p&gt;Deliverable for task WP5.5 of the project FOSSR: Complex modelling and artificial populations for agent-based simulations.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The FOSSR open-cloud will provide plenty of data to support social research and policymaking. However, details and abundance of data might not be enough to understand the emergence of the dynamics of collective phenomena such as, for instance, segregation or polarization. Agent-based modeling is a computational method that serves this scope, enabling the construction of artificial societies comprising virtual agents that simulate human cognitions and behaviors to interact with their context. By studying the interaction between agents as a drive to collective behavior, the method enables experimentation on the actual emergence of collective phenomena. Synthetic populations are a set of algorithms to assure that artificial populations are representative of their target population in terms of attributes of agents and their distribution, which includes also the reconstruction of data from independent sources of information. The goal of WP5.5 is to enable algorithms for synthetic populations and synthetic reconstruction in the FOSSR open cloud, providing a service for researchers who will use data from the FOSSR infrastructures to build reliable agent-based models. In this deliverable, we report our activities to the date. We provide an overview of complexity science, agent-based modeling, and their contribution to the FOSSR infrastructure. We show our formalization of the Iterative Proportional Fitting algorithm for synthetic reconstruction and its validation, and steps towards the integration in the workflow of the future FOSSR infrastructure in collaboration with other WPs.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://doi.org/10.5281/zenodo.10638801</guid>
+      <category domain="https://schema.datacite.org/">Project deliverable</category>
+      <enclosure url="https://zenodo.org/api/records/10638801/files/FOSSR D5.8 Complex modelling and artificial populations for agent-based simulations.pdf/content" length="None" type="application/pdf"/>
+      <pubDate>Sun, 03 Mar 2024 21:49:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>The resource FOSSR Deliverable 4.4 - Development of the digital platform and integration with Open Cloud has been modified.</title>
+      <link>https://doi.org/10.5281/zenodo.10721097</link>
+      <description>&lt;p&gt;Deliverable for task WP4.4 of the project FOSSR: Development of the digital platform and integration with Open Cloud&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The preparation and implementation of multimodal interviews requires the availability of a complex application capable of interfacing with different types of users: system administrators, users with access authorisation for field monitoring, interviewers and interviewees. The latter are put in contact with the system through a dedicated application, an interface that allows direct communication with the interviewees but which also supports more extensive functions, such as the view of the activities carried out by each interviewee.&lt;br&gt;On the main application side, the panel management and monitoring functions must be implemented, starting from the insertion of profiling data, but also the management of the interviews of each wave and the activity of the panellists.&lt;br&gt;It is, therefore, a document necessary for the design and implementation phase of the main infrastructure management software in its part dedicated to the production of original data for the social sciences, which takes into account the needs, the components already available, and the possible technical solutions that will support the final architecture of the product.&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://doi.org/10.5281/zenodo.10721097</guid>
+      <category domain="https://schema.datacite.org/">Project deliverable</category>
+      <enclosure url="https://zenodo.org/api/records/10721097/files/FOSSR PNRR IR - WP4- D4.4.pdf/content" length="None" type="application/pdf"/>
+      <pubDate>Sun, 03 Mar 2024 21:53:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>The resource FOSSR Online Training "FROM OPEN DATA TO OPEN KNOWLEDGE GRAPHS: THE ROLE OF SEMANTIC TECHNOLOGIES": materials has been modified.</title>
+      <link>https://doi.org/10.5281/zenodo.10793529</link>
+      <description>&lt;p&gt;This folder contains all materials derived from the FOSSR Online training &lt;strong&gt;"From open data to open knowledge graphs: the role of semantic technologies"&amp;nbsp;&lt;/strong&gt;organized by&amp;nbsp;&lt;strong&gt;Andrea Giovanni Nuzzolese&lt;/strong&gt;, &lt;strong&gt;Giorgia Lodi&lt;/strong&gt;,&amp;nbsp;&lt;strong&gt;Alessandro Russo&lt;/strong&gt;, &lt;strong&gt;Miguel Ceriani&lt;/strong&gt;, &lt;strong&gt;Anna Sofia Lippolis&lt;/strong&gt; (CNR-ISTC), and held from 28th to 29th February 2024.&lt;/p&gt;
+&lt;p&gt;Apertura del corso a cura di Valentina Tudisca (CNR-IRPPS).&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://doi.org/10.5281/zenodo.10793529</guid>
+      <category domain="https://schema.datacite.org/">Lesson</category>
+      <enclosure url="https://zenodo.org/api/records/10793529/files/FOSSR training_Module4_Knowledge_Extraction_part2_Ceriani-Lippolis.pdf/content" length="None" type="application/pdf"/>
+      <pubDate>Thu, 07 Mar 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The resource Optimal Policy Learning using Stata has been modified.</title>
+      <link>https://doi.org/10.5281/zenodo.10822240</link>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;This article introduces the &lt;strong&gt;Stata package OPL&lt;/strong&gt; for optimal policy learning, facilitating &lt;strong&gt;ex-ante policy impact evaluation&lt;/strong&gt; within the Stata environment. Despite theoretical progress, practical implementations of policy learning algorithms are still poor within popular statistical software. To address this limitation, &lt;strong&gt;OPL implements three popular policy learning algorithms&lt;/strong&gt; in Stata { threshold-based, linear-combination, and &amp;nbsp;xed-depth decision tree { and provides practical demonstrations of them using a real dataset. Also, the paper presents &lt;strong&gt;policy scenario development&lt;/strong&gt; proposing a menu strategy, particularly useful when selection variables are a ected by welfare monotonicity. Overall, the paper contributes to &lt;strong&gt;bridging the gap between theoretical advancements and practical applications&lt;/strong&gt; in the eld of policy learning.&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://doi.org/10.5281/zenodo.10822240</guid>
+      <category domain="https://schema.datacite.org/">Working paper</category>
+      <enclosure url="https://zenodo.org/api/records/10822240/files/Optimal Policy Learning using Stata_Cerulli.pdf/content" length="None" type="application/pdf"/>
+      <pubDate>Fri, 15 Mar 2024 14:55:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>The resource FOSSR Action research session: Transformative paths in research practices: co-developing social science infrastructures has been modified.</title>
+      <link>https://doi.org/10.5281/zenodo.10943877</link>
+      <description>&lt;p&gt;This folder contains all materials derived from the FOSSR Action research session on &lt;strong&gt;Transformative paths in research practices: co-developing social science infrastructures &lt;/strong&gt;organized by&lt;strong&gt; Erica Rizziato &lt;/strong&gt;(CNR-IRCrES), and held on 13th and 20th March 2024.&lt;/p&gt;
+&lt;p&gt;The&amp;nbsp; session, which took place in two meetings, one week apart, with two specific objectives: &amp;nbsp;&lt;/p&gt;
+&lt;p&gt;- to propose some fundamentals of the methodology to produce social transformation and develop critical reflection in the actors involved; &amp;nbsp;&lt;/p&gt;
+&lt;p&gt;- to enhance the transformative potential offered by research infrastructures, through data, tools and methods developed within FOSSR.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;The two objectives are linked by an innovative action research approach elaborated at CNR-IRCrES by Erica Rizziato (curator of the session) that aim at co-generating useful information both for:&lt;/p&gt;
+&lt;p&gt;- participants, about the real need for information they can request from FOSSR to improve the impact of their work,&lt;/p&gt;
+&lt;p&gt;- the FOSSR team, who will facilitate interactive modalities useful to shape the infrastructure in order to make it easily and usefully usable by the beneficiaries.&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://doi.org/10.5281/zenodo.10943877</guid>
+      <category domain="https://schema.datacite.org/">Lesson</category>
+      <enclosure url="https://zenodo.org/api/records/10943877/files/FOSSR - flyer action research 13-20 march 2024.pdf/content" length="None" type="application/pdf"/>
+      <pubDate>Mon, 08 Apr 2024 14:23:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>The resource Optimal Policy Learning with Observational Data in Multi-Action Scenarios: Estimation, Risk Preference, and Potential Failures has been modified.</title>
+      <link>https://doi.org/10.48550/arXiv.2403.20250</link>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;This paper deals with optimal policy learning (OPL) with observational data, i.e. data-driven optimal decision-making, in multi-action (or multi-arm) settings, where a finite set of decision options is available. It is organized in three parts, where I discuss respectively: estimation, risk preference, and potential failures.&lt;/p&gt;
+&lt;p&gt;The first part provides a brief review of the key approaches to estimating the reward (or value) function and optimal policy within this context of analysis. Here, I delineate the identification assumptions and statistical properties related to offline optimal policy learning estimators.&lt;/p&gt;
+&lt;p&gt;In the second part, I delve into the analysis of decision risk. This analysis reveals that the optimal choice can be influenced by the decision maker's attitude towards risks, specifically in terms of the trade-off between reward conditional mean and conditional variance. Here, I present an application of the proposed model to real data, illustrating that the average regret of a policy with multi-valued treatment is contingent on the decision-maker's attitude towards risk.&lt;/p&gt;
+&lt;p&gt;The third part of the paper discusses the limitations of optimal data-driven decision-making by highlighting conditions under which decision-making can falter. This aspect is linked to the failure of the two fundamental assumptions essential for identifying the optimal choice: (i) overlapping, and (ii) unconfoundedness. Some conclusions end the paper.&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://doi.org/10.48550/arXiv.2403.20250</guid>
+      <category domain="https://schema.datacite.org/">Working paper</category>
+      <enclosure url="https://zenodo.org/api/records/10943369/files/Optimal Policy Learning with Observational Data in Multi-Action Scenarios_Cerulli 2024.pdf/content" length="None" type="application/pdf"/>
+      <pubDate>Tue, 09 Apr 2024 09:31:24 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>Media Data Center Editor - FOSSR</title>
+  </head>
+  <body>
+    <h1>FOSSR Project</h1>
+    <h2>Media Data Center Editor</h2>
+    {% if mediaitem["multipleMediaItem"]["id"] != 0 %}
+    <p>You're editing the multiple media item #{{mediaitem["multipleMediaItem"]["id"]}}</p>
+    {% else -%}
+    <p>You're creating a new multiple media item</p>
+    {% endif %}
+    {% if savedatetime is not none %}
+    <p><strong>SAVED!</strong> (datetime of last save: {{savedatetime}})<p>
+    {% endif %}
+    <hr/>
+    <form action="{{action}}" method="post" enctype="multipart/form-data">
+      <p>Scheduled publication date: <input type="datetime-local" id="mi_scheduled_pubdate" name="mi_scheduled_pubdate" value="{{scheduled_pub_date}}"></p> 
+      <p><strong>TODO:</strong> pensare come caricare ed includere immagini.</p>
+      <hr/>
+      <div>
+        <h3>Facebook</h3>
+        <textarea id="facebook_msg" name="facebook_msg" rows="10" cols="150">{{ mediaitem["data"]["facebook"]["msg"] }}</textarea>
+        <!-- <p>Scheduled publication date: <input type="datetime-local" id="facebook_scheduled_pubdate" name="facebook_scheduled_pubdate"></p> -->
+        <p><strong>STATUS:</strong> <em id="facebook_status"> {{ mediaitem['data']['facebook']['status'] }} </em> - <strong>LAST MOD BY:</strong> <em id="facebook_modifiedBy"> {{ mediaitem['data']['facebook']['modifiedBy'] }} </em></p>
+        <hr/>
+      </div>
+      <div>
+        <div>
+        <h3>Linkedin</h3>
+        <textarea id="linkedin_msg" name="linkedin_msg" rows="10" cols="150">{{ mediaitem["data"]["linkedin"]["msg"] }}</textarea>
+        <!-- <p>Scheduled publication date: <input type="datetime-local" id="linkedin_scheduled_pubdate" name="linkedin_scheduled_pubdate"></p> -->
+        <p><strong>STATUS:</strong> <em id="linkedin_status"> {{ mediaitem['data']['linkedin']['status'] }} </em> - <strong>LAST MOD BY:</strong> <em id="linkedin_modifiedBy"> {{ mediaitem['data']['linkedin']['modifiedBy'] }} </em></p>
+        <hr/>    
+      </div>
+      <div>
+        <div>
+        <h3>X</h3>
+        <textarea id="x_msg" name="x_msg" rows="10" cols="150">{{ mediaitem["data"]["x"]["msg"] }}</textarea>
+        <!-- <p>Scheduled publication date: <input type="datetime-local" id="x_scheduled_pubdate" name="x_scheduled_pubdate"></p> -->
+        <p><strong>STATUS:</strong> <em id="x_status">{{ mediaitem['data']['x']['status'] }}</em> - <strong>LAST MOD BY:</strong> <em id="x_modifiedBy">{{ mediaitem['data']['x']['modifiedBy'] }}</em></p>
+        <hr/>
+      </div>
+      <div>
+        <div>
+        <h3>Feed (RSS, Atom, etc.)</h3>
+        <!-- <p><input type="text" id="feed_title" name="feed_title" rows="10" cols="100" size="100" value="{{ mediaitem['data']['feed']['title'] }}"/></p> -->
+        <p><label for="feed_title">Title:</label></p>
+        <p><textarea id="feed_title" name="feed_title" rows="2" cols="150">{{ mediaitem['data']['feed']['title'] }}</textarea></p>
+        <p><label for="feed_description">Description:</label></p>
+        <p><textarea id="feed_description" name="feed_description" rows="10" cols="150">{{ mediaitem["data"]["feed"]["description"] }}</textarea></p>
+        <p><label for="feed_link">Link:</label></p>
+        <p><textarea id="feed_link" name="feed_link" rows="2" cols="150">{{ mediaitem['data']['feed']['link'] }}</textarea></p>
+        <!-- <p>Scheduled publication date: <input type="datetime-local" id="feed_scheduled_pubdate" name="feed_scheduled_pubdate"></p> -->
+        <p><strong>STATUS:</strong> <em id="feed_status"> {{ mediaitem['data']['feed']['status'] }} </em> - <strong>LAST MOD BY:</strong> <em id="feed_modifiedBy"> {{ mediaitem['data']['feed']['modifiedBy'] }} </em></p>
+        <hr/> 
+      </div>
+      <p>
+        {% if navigation["first"] is not none %}
+          <a href="/mediadatacenter/mediaitem/{{navigation['first']}}">{{navigation['first']}}</a> ... 
+        {% endif %}
+        {% if navigation["prev"] is not none %}
+          <a href="/mediadatacenter/mediaitem/{{navigation['prev']}}">{{navigation['prev']}}</a>
+        {% endif %}
+        <input type="submit" value="Save">
+        {% if navigation["next"] is not none %}
+          <a href="/mediadatacenter/mediaitem/{{navigation['next']}}">{{navigation['next']}}</a>
+        {% endif %}
+        {% if navigation["last"] is not none %}
+          ... <a href="/mediadatacenter/mediaitem/{{navigation['last']}}">{{navigation['last']}}</a>
+        {% endif %}
+        - <a href="/mediadatacenter/mediaitem/">Create a new multiple media item</a>
+      </p>
+    </form>   
+  </body>
+</html>

@@ -1,0 +1,5 @@
+feedgen
+requests
+flask
+flask-cors
+num2words
